@@ -184,3 +184,8 @@ body {
 .icon-support {
   border-color: #f97316;
 }
+@media (max-width: 768px) {
+  .feature-grid {
+    grid-template-columns: 1fr;
+  }
+}
