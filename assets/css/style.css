@@ -269,3 +269,51 @@ body {
   font-size: 1.2rem;
   margin-bottom: 0.1rem;
 }
+.site-footer {
+  background: #020617;
+  color: #9ca3af;
+  padding: 1.8rem 0;
+  border-top: 1px solid #111827;
+}
+
+.footer-grid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.footer-logo {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.footer-logo span {
+  color: #f97316;
+}
+
+.social-links {
+  display: flex;
+  gap: 0.8rem;
+}
+
+.social-links a {
+  display: inline-flex;
+  width: 32px;
+  height: 32px;
+  border-radius: 999px;
+  border: 1px solid #1f2937;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.icon-facebook,
+.icon-x,
+.icon-linkedin {
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  border: 2px solid #f97316;
+}
