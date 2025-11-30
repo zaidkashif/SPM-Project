@@ -33,14 +33,7 @@
 </header>
 
 <main>
-    <!-- Sign Up info (for header Sign Up button) -->
-    <section id="signup" class="signup-info">
-        <div class="container">
-            <h2>Ready to sign up?</h2>
-            <p>Talk to our team and get your QuickPOS account activated in minutes.</p>
-            <a href="#contact" class="btn btn-primary">Contact Sales</a>
-        </div>
-    </section>
+  
 
     <!-- Hero Section -->
     <section class="hero" id="top">
@@ -174,7 +167,14 @@
             </div>
         </div>
     </section>
-
+  <!-- Sign Up info (for header Sign Up button) -->
+    <section id="signup" class="signup-info">
+        <div class="container">
+            <h2>Ready to sign up?</h2>
+            <p>Talk to our team and get your QuickPOS account activated in minutes.</p>
+            <a href="#contact" class="btn btn-primary">Contact Sales</a>
+        </div>
+    </section>
     <!-- Contact Section -->
     <section id="contact" class="contact">
         <div class="container">

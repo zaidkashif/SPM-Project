@@ -307,6 +307,7 @@ body {
   align-items: center;
   justify-content: center;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .icon-facebook,
@@ -484,4 +485,12 @@ textarea {
   .feature-icon {
     margin-bottom: 0;
   }
+}
+.nav-links a:hover {
+  color: #f97316;
+}
+.signup-info {
+  padding: 3rem 0 1rem;
+  background: #0b1120;
+  color: #e5e7eb;
 }
