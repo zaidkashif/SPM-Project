@@ -106,6 +106,56 @@
         </div>
     </div>
 </section>
+<!-- Pricing Section -->
+<section id="pricing" class="pricing">
+    <div class="container">
+        <h2>Simple, Transparent Pricing</h2>
+        <p class="section-subtitle">
+            Choose a plan that matches your business stage. No hidden fees.
+        </p>
+
+        <div class="pricing-grid">
+            <article class="pricing-card">
+                <h3>Basic</h3>
+                <p class="price">
+                    <span class="currency">$</span>29<span class="period">/mo</span>
+                </p>
+                <ul>
+                    <li>1 register</li>
+                    <li>Basic inventory tracking</li>
+                    <li>Email support</li>
+                </ul>
+                <a href="#contact" class="btn btn-outline">Start Basic</a>
+            </article>
+
+            <article class="pricing-card featured">
+                <div class="badge">Most Popular</div>
+                <h3>Pro</h3>
+                <p class="price">
+                    <span class="currency">$</span>59<span class="period">/mo</span>
+                </p>
+                <ul>
+                    <li>3 registers</li>
+                    <li>Advanced analytics & reports</li>
+                    <li>Priority support</li>
+                </ul>
+                <a href="#contact" class="btn btn-primary">Start Pro</a>
+            </article>
+
+            <article class="pricing-card">
+                <h3>Enterprise</h3>
+                <p class="price">Contact us</p>
+                <ul>
+                    <li>Unlimited locations</li>
+                    <li>Custom integrations</li>
+                    <li>Dedicated account manager</li>
+                </ul>
+                <a href="#contact" class="btn btn-outline">Contact Sales</a>
+            </article>
+        </div>
+    </div>
+</section>
+
 
     </div>
 </header>
