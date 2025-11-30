@@ -264,3 +264,8 @@ body {
   color: #d1d5db;
   margin-bottom: 0.35rem;
 }
+
+.pricing-card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.1rem;
+}
