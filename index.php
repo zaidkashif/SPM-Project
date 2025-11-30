@@ -27,5 +27,31 @@
             </ul>
             <a href="#signup" class="btn btn-outline header-signup">Sign Up</a>
         </nav>
+        <main>
+    <!-- Hero Section -->
+    <section class="hero" id="top">
+        <div class="container hero-grid">
+            <div class="hero-content">
+                <h1>The Last POS System You’ll Ever Need</h1>
+                <p>
+                    QuickPOS is a cloud-based point-of-sale platform built for modern retailers,
+                    restaurants, and growing businesses.
+                </p>
+                <div class="hero-ctas">
+                    <a href="#pricing" class="btn btn-primary cta-get-started">
+                        Get Started for Free
+                    </a>
+                    <a href="#features" class="btn btn-ghost">
+                        See Features
+                    </a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <img src="assets/img/quickpos-mockup.png"
+                     alt="QuickPOS dashboard on tablet and phone">
+            </div>
+        </div>
+    </section>
+
     </div>
 </header>
