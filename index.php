@@ -200,19 +200,20 @@
         <div class="footer-links">
             <p>Follow us</p>
             <div class="social-links">
-                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"
-                   aria-label="QuickPOS on Facebook">
-                    <i class="icon icon-facebook"></i>
-                </a>
-                <a href="https://x.com" target="_blank" rel="noopener noreferrer"
-                   aria-label="QuickPOS on X">
-                    <i class="icon icon-x"></i>
-                </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
-                   aria-label="QuickPOS on LinkedIn">
-                    <i class="icon icon-linkedin"></i>
-                </a>
-            </div>
+    <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"
+       aria-label="QuickPOS on Facebook">
+        <i class="icon icon-facebook"></i>
+    </a>
+    <a href="https://x.com" target="_blank" rel="noopener noreferrer"
+       aria-label="QuickPOS on X">
+        <i class="icon icon-x"></i>
+    </a>
+    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
+       aria-label="QuickPOS on LinkedIn">
+        <i class="icon icon-linkedin"></i>
+    </a>
+</div>
+
         </div>
     </div>
 </footer>
