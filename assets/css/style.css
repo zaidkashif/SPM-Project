@@ -119,3 +119,68 @@ body {
   font-size: 1.05rem;
   opacity: 0.95;
 }
+
+.features {
+  padding: 4rem 0;
+  background: #f9fafb;
+}
+
+.features h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.section-subtitle {
+  text-align: center;
+  color: #6b7280;
+  max-width: 32rem;
+  margin: 0 auto 2.5rem;
+  font-size: 0.98rem;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.75rem;
+}
+
+.feature-card {
+  background: #ffffff;
+  border-radius: 1.25rem;
+  padding: 1.5rem 1.4rem;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+}
+
+.feature-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 999px;
+  background: #eef2ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.9rem;
+}
+
+/* Simple icon placeholders */
+.icon {
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  border-radius: 6px;
+  border: 2px solid #4f46e5;
+}
+
+.icon-analytics {
+  border-radius: 3px;
+  border-style: dashed;
+}
+
+.icon-integration {
+  border-color: #10b981;
+}
+
+.icon-support {
+  border-color: #f97316;
+}
