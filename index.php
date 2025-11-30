@@ -155,6 +155,36 @@
         </div>
     </div>
 </section>
+<!-- Contact Section -->
+<section id="contact" class="contact">
+    <div class="container">
+        <h2>Contact Us</h2>
+        <p class="section-subtitle">
+            Have questions about QuickPOS? Our team is here to help.
+        </p>
+
+        <form action="contact.php" method="POST" class="contact-form" novalidate>
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input id="name" name="name" type="text" required>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input id="email" name="email" type="email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary">
+                Send Message
+            </button>
+        </form>
+    </div>
+</section>
 
 
     </div>
